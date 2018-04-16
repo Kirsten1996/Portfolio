@@ -8,4 +8,3 @@ display.addEventListener("click", myFunction);
 
 
 
-cls
