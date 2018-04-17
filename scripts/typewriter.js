@@ -1,5 +1,5 @@
 var i = 0;
-var text = "Hello, I'm Kirsten";
+var text = "Hello, I'm Kirsten" + " " + "I'm a Junior web developer\n" + "I design websites";
 var speed = 50;
 
 var hero = document.querySelector('.hero');
