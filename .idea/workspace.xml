@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31abd3cc-4e7b-479a-862e-8f6d938cc072" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/css.png" afterPath="$PROJECT_DIR$/images/css.png" />
-      <change beforePath="$PROJECT_DIR$/images/html.png" afterPath="$PROJECT_DIR$/images/html.png" />
-      <change beforePath="$PROJECT_DIR$/images/jQuery.png" afterPath="$PROJECT_DIR$/images/jQuery.png" />
-      <change beforePath="$PROJECT_DIR$/images/javascript.png" afterPath="$PROJECT_DIR$/images/javascript.png" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/scripts/typewriter.js" afterPath="$PROJECT_DIR$/scripts/typewriter.js" />
-      <change beforePath="$PROJECT_DIR$/styles/master.css" afterPath="$PROJECT_DIR$/styles/master.css" />
       <change beforePath="$PROJECT_DIR$/styles/responsive.css" afterPath="$PROJECT_DIR$/styles/responsive.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -70,7 +62,7 @@
             <entry file="file://$PROJECT_DIR$/styles/responsive.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="644">
-                  <caret line="118" column="14" lean-forward="false" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+                  <caret line="118" column="17" lean-forward="false" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -206,12 +198,12 @@
       <workItem from="1523539157124" duration="1473000" />
       <workItem from="1523605113432" duration="10773000" />
       <workItem from="1523860897760" duration="21173000" />
-      <workItem from="1523952199701" duration="6244000" />
+      <workItem from="1523952199701" duration="6448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39663000" />
+    <option name="totallyTimeSpent" value="39867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -428,7 +420,7 @@
     <entry file="file://$PROJECT_DIR$/styles/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
-          <caret line="118" column="14" lean-forward="false" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+          <caret line="118" column="17" lean-forward="false" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
           <folding />
         </state>
       </provider>
