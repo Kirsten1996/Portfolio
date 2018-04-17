@@ -46,6 +46,14 @@
 
     h2 {
       text-align: center;
+      font-size: 30px;
+    }
+
+    h3 {
+      font-size: 23px;
+      text-align: center;
+      margin: 0;
+      padding: 1em;
     }
 
     #text {
@@ -113,10 +121,29 @@
       text-align: center;
     }
 
-    button {
+    .follow {
       position: absolute;
-      top: 60%;
-      left: 44%;.
+      top: 54%;
+      left: 42%;
+    }
+
+    .top {
+      position: relative;
+    }
+
+    #checkout {
+      top: 45%;
+      left: 38%;
+      position: absolute;
+    }
+
+    #slogan {
+      padding: 1em;
+    }
+
+    .contact {
+      display: flex;
+      flex-direction: column;
     }
   }
 
@@ -128,7 +155,17 @@
     }
 
     .about {
-      height: 350px;
+      height: 350px; 
+    }
+
+    #checkout {
+      top: 45%;
+      left: 40%;
+      position: absolute;
+    }
+
+    #slogan {
+      text-align: center;
     }
   }
 
@@ -173,8 +210,14 @@
     .project {
       width: 33%;
       height: auto;
+      margin: auto;
     }
 
+    #checkout {
+      top: 45%;
+      left: 46%;
+      position: absolute;
+    }
   }
 
 

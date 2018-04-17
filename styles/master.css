@@ -57,6 +57,7 @@ h1 {
   width: 100%;
   height: 150px;
   padding: 1em;
+  text-align: center;
 }
 
 
@@ -81,4 +82,19 @@ h1 {
 .bottom {
   width: 100%;
   height: 400px;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row;
+}
+
+.phone {
+  text-align: center;
+  padding: 1em;
+}
+
+.mail {
+  text-align: center;
+  padding: 1em;
 }
