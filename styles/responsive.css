@@ -155,7 +155,7 @@
     }
 
     .about {
-      height: 350px; 
+      height: 350px;
     }
 
     #checkout {
@@ -218,6 +218,12 @@
       left: 46%;
       position: absolute;
     }
+
+    .contact {
+      flex-direction: row;
+    }
+
+
   }
 
 
