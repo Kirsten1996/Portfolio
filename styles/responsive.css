@@ -213,6 +213,16 @@
       margin: auto;
     }
 
+    .text {
+      font-size: 16px;
+      top: 45%;
+    }
+
+    .follow {
+      top: 52%;
+      left: 38%;
+    }
+
     #checkout {
       top: 45%;
       left: 46%;
@@ -221,9 +231,20 @@
 
     .contact {
       flex-direction: row;
+      justify-content: center;
     }
 
+  }
 
+  @media all and (min-width: 1000px) {
+
+    .text {
+      font-size: 20px;
+    }
+
+    .follow {
+      left: 42%;
+    }
   }
 
 
