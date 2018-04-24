@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
+
+.nav > a {
+  text-decoration: none;
+}
+
+@media all and (min-width: 320px) {
+
+  .nav .icon {
+    display: block;
+  }
+
+  .myNav {
+    display: none;
+    width: 100%;
+  }
+
+  .isOpen {
+    display: block;
+    height: 200px;
+    width: 100%;
+    background-color: white;
+  }
+
+  a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  #icon {
+    padding: 0.5em;
+  }
+
+}
+
+@media all and (min-width: 768px) {
+
+  .header {
+    flex-direction: row;
+  }
+}
