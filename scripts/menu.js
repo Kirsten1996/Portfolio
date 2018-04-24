@@ -4,7 +4,3 @@ function myFunction () {
 
 var display = document.getElementById("icon");
 display.addEventListener("click", myFunction);
-
-
-
-

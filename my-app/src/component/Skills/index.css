@@ -2,6 +2,7 @@
   max-width: 1140px;
   width: 100%;
   margin: 0 auto;
+  height: 250px;
 }
 
 .wrap {
@@ -37,6 +38,6 @@
   }
 
   .service-box {
-    margin: 1em;
+    margin: 1em auto;
   }
 }

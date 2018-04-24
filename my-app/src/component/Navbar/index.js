@@ -4,10 +4,14 @@ import menu from './media/menu.png';
 
 
 class Navbar extends Component {
+  toggleNav = () => {
+    document.querySelector(".myNav").classList.toggle("isOpen");
+  };
+
   render() {
     return <div className='header'>
       <div className='nav'>
-        <div id='icon'>
+        <div onClick={this.toggleNav} id='icon'>
           <a className="icon">
             <img src={menu} alt={menu}/>
           </a>
