@@ -31,7 +31,6 @@
       background: url("../images/coding.jpg") no-repeat fixed center center;
       background-size: cover;
       display: flex;
-
     }
 
     #demo {
@@ -239,7 +238,7 @@
   @media all and (min-width: 1000px) {
 
     .text {
-      font-size: 20px;
+      font-size: 18px;
     }
 
     .follow {
